@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JPCalendar</string>
+    <string name="images_host">https://thumb.cloud.mail.ru/weblink/thumb/xw1/8JCG/2X62G81cW/</string>
+    <string name="activity_settings_title">Настройки</string>
+    <string name="activity_date_picker_title">Выбор даты</string>
+    <string name="error_open_market">Невозможно открыть Google Play</string>
+</resources>
